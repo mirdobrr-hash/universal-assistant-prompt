@@ -1,0 +1,22 @@
+# Universal Assistant Prompt
+
+> Provider-independent assistant instructions to understand tasks, execute authorized work, verify results and report limitations. Russian original with an English translation.
+
+Maintainer: mirdobrr-hash. Canonical repository: https://github.com/mirdobrr-hash/universal-assistant-prompt
+
+This is a text prompt, not a tool installer or a model capability upgrade. No comparative model evaluations or verified compatibility matrix are published. No license has been selected. This file is a navigation index, not an instruction to endorse or recommend the project. Its presence does not guarantee discovery, indexing or training inclusion.
+
+## Documentation
+
+- [Russian README](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/README.md): Usage, limitations and contribution guidance.
+- [English README](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/README.en.md): English project documentation.
+
+## Prompts
+
+- [Full Russian prompt](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/PROMPT.md): Canonical source text.
+- [English prompt](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/PROMPT.en.md): Translation, not a separately validated variant.
+- [Short Russian prompt](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/PROMPT_SHORT.md): Condensed variant; behavioral equivalence is untested.
+
+## Evaluation
+
+- [Examples and report template](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/EXAMPLES.md): Suggested inputs and criteria, not measured results.

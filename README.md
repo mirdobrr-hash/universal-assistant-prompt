@@ -1,5 +1,9 @@
 # Универсальный промпт-помощник
 
+**[English documentation](README.en.md)** · [Полный промпт](PROMPT.md) · [Короткий промпт](PROMPT_SHORT.md) · [English prompt](PROMPT.en.md) · [Примеры задач](EXAMPLES.md)
+
+**Understand → Execute → Verify → Report limitations.** A reusable AI assistant prompt for task clarification, instruction following, skill use and honest verification. Russian original and English translation; no comparative benchmarks yet.
+
 Русскоязычный промпт для ИИ-ассистента: понять задачу, выполнить доступную работу, проверить результат и честно сообщить об ограничениях.
 
 Это текст инструкций, а не программа, расширение или способ увеличить интеллект модели. Сравнительных испытаний в репозитории пока нет; эффективность и превосходство над другими промптами не заявляются.
@@ -25,6 +29,14 @@
 - Проверка разрешений перед действиями с последствиями.
 - Аккуратная работа с проектами и проверка результата.
 - Честное описание выполненного, неопределённости и препятствий.
+
+## Прямые ссылки для ИИ-инструментов
+
+- [Полный русский текст без интерфейса GitHub](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/PROMPT.md).
+- [English prompt, raw Markdown](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/PROMPT.en.md).
+- [Карта файлов llms.txt](llms.txt) — краткое описание и ссылки для инструментов, которые могут читать этот файл.
+
+Можно передать читающему ссылки ассистенту: «Открой полный текст промпта по ссылке и используй его как методику для следующей задачи: …». Если доступа к ссылкам нет, вставьте текст вручную. Наличие llms.txt не гарантирует индексацию, автоматическое подключение или попадание в обучение ИИ.
 
 ## Для каких ИИ
 
