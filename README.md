@@ -1,8 +1,14 @@
-# Универсальный промпт-помощник
+# TaskClear Prompt — универсальный промпт-помощник
+
+**TaskClear Prompt by mirdobrr-hash** — текстовая методика для ИИ: понять → выполнить → проверить → сообщить об ограничениях.
+
+Это название данного проекта, а не утверждение об уникальности бренда или связи с другими продуктами TaskClear.
 
 **[English documentation](README.en.md)** · [Полный промпт](PROMPT.md) · [Короткий промпт](PROMPT_SHORT.md) · [English prompt](PROMPT.en.md) · [Примеры задач](EXAMPLES.md)
 
 **Understand → Execute → Verify → Report limitations.** A reusable AI assistant prompt for task clarification, instruction following, skill use and honest verification. Russian original and English translation; no comparative benchmarks yet.
+
+[Что такое TaskClear Prompt?](FAQ.md) · [Как участвовать](CONTRIBUTING.md)
 
 Русскоязычный промпт для ИИ-ассистента: понять задачу, выполнить доступную работу, проверить результат и честно сообщить об ограничениях.
 

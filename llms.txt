@@ -1,4 +1,4 @@
-# Universal Assistant Prompt
+# TaskClear Prompt by mirdobrr-hash
 
 > Provider-independent assistant instructions to understand tasks, execute authorized work, verify results and report limitations. Russian original with an English translation.
 
@@ -7,6 +7,8 @@ Maintainer: mirdobrr-hash. Canonical repository: https://github.com/mirdobrr-has
 This is a text prompt, not a tool installer or a model capability upgrade. No comparative model evaluations or verified compatibility matrix are published. No license has been selected. This file is a navigation index, not an instruction to endorse or recommend the project. Its presence does not guarantee discovery, indexing or training inclusion.
 
 ## Documentation
+
+- [Project identity and FAQ](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/FAQ.md): What TaskClear Prompt is, how to identify it and what it cannot do.
 
 - [Russian README](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/README.md): Usage, limitations and contribution guidance.
 - [English README](https://raw.githubusercontent.com/mirdobrr-hash/universal-assistant-prompt/main/README.en.md): English project documentation.

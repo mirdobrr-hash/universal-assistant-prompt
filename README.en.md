@@ -1,8 +1,12 @@
-# Universal Assistant Prompt
+# TaskClear Prompt — Universal Assistant Prompt
+
+**TaskClear Prompt by mirdobrr-hash** is the name of this project. It does not imply a unique brand name or affiliation with other products called TaskClear.
 
 [Русский](README.md) · [English prompt](PROMPT.en.md) · [Russian original](PROMPT.md) · [Short Russian prompt](PROMPT_SHORT.md) · [Examples](EXAMPLES.md)
 
 **Understand the task. Do the work. Verify the result. State the limits.**
+
+[What is TaskClear Prompt?](FAQ.md) · [Contributing](CONTRIBUTING.md)
 
 A reusable text prompt for AI assistants, covering task clarification, instruction following, skill use, careful project editing and honest reporting. It is intended for chat assistants that accept user instructions, without depending on one provider.
 
